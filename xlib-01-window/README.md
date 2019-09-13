@@ -1,7 +1,6 @@
 
 Simple X11 Window
 
-`````
 ```c
 #include <stdio.h>
 #include <X11/Xlib.h>
